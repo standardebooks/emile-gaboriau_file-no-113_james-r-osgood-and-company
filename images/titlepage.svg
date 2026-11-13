@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<title>The titlepage for the Standard Ebooks edition of File No. 113, by Émile Gaboriau. Translated by James R. Osgood &amp; Co.</title>
+	<title>The titlepage for the Standard Ebooks edition of File No. 113, by Émile Gaboriau. Translated by James R. Osgood and Company</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -30,5 +30,5 @@
 	<text class="title" x="700" y="130">FILE NO. 113</text>
 	<text class="author" x="700" y="290">ÉMILE GABORIAU</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">JAMES R. OSGOOD &amp; CO.</text>
+	<text class="contributor" x="700" y="540">JAMES R. OSGOOD AND COMPANY</text>
 </svg>
